@@ -4,7 +4,7 @@ C#
 
 1. Kalkulator ✅ — 4 basic operations, division by zero handling
 2. Lista zadań (To-Do) ✅ — add, remove, display tasks
-3. Zgadnij liczbę✅ — guess 1–100, higher/lower hints, attempt counter
+3. Zgadnij liczbę ✅ — guess 1–100, higher/lower hints, attempt counter
 4. Konwerter jednostek — temperature (°C/°F/K), length, weight
 5. Konto bankowe — deposit, withdraw, transaction history
 6. Menadżer kontaktów — search, add, save to .txt file
@@ -13,7 +13,7 @@ C#
 Python
 
 1. Kalkulator ✅ — functions, try/except
-2. Zgadnij liczbę — random, while loop, final score
+2. Zgadnij liczbę ✅ — random, while loop, final score
 3. Analizator tekstu — count words, chars, most frequent words
 4. Quiz wiedzy — question dictionary, random order, score %
 5. Lista zakupów — add/remove, save to CSV

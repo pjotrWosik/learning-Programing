@@ -14,7 +14,7 @@ Python
 
 1. Kalkulator ✅ — functions, try/except
 2. Zgadnij liczbę ✅ — random, while loop, final score
-3. Analizator tekstu — count words, chars, most frequent words
+3. Analizator tekstu ✅ — count words, chars, most frequent words
 4. Quiz wiedzy — question dictionary, random order, score %
 5. Lista zakupów — add/remove, save to CSV
 6. Kalkulator BMI — input validation, weight categories, tips

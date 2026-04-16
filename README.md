@@ -17,7 +17,7 @@ Python
 3. Analizator tekstu ✅ — count words, chars, most frequent words
 4. Quiz wiedzy ✅ — question dictionary, random order, score %
 5. Lista zakupów — add/remove, save to CSV
-6. Kalkulator BMI — input validation, weight categories, tips
+6. Kalkulator BMI ✅ — input validation, weight categories, tips
 
 
 Rust
